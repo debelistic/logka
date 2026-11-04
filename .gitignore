@@ -1,0 +1,20 @@
+# binaries
+/logka
+*.exe
+
+# frontend
+web/node_modules/
+web/dist/
+
+# go
+vendor/
+
+# ide / os
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# env
+.env
+.env.*
